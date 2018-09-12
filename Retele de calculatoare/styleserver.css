@@ -1,0 +1,5 @@
+body { color: #3f312e; background: #160bf6; font: 14px Helvetica, Arial, Sans-serif; }
+#header { width: 1100px; min-height: 150px; margin: 0 auto; }
+#container { overflow: auto; width: 1200px; margin: 0 auto;}
+#content { width: 1100px; min-height: 700px; margin: 0 auto; background: #fff; padding: 30px;  }
+#footer { width: 1100px; margin: 0 auto; position: relative; top: -6px;  }
